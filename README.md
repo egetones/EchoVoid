@@ -67,3 +67,4 @@ sudo python3 agent.py --target <TARGET_IP> --message "Secret_Payload_Here"
 
 ---
 *Crafted with <3 by Ege*
+Çrş 15 Nis 2026 22:16:43 +03
